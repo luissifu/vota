@@ -1,3 +1,32 @@
 // Place all the styles related to the Pages controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+.can1{
+  width:35%;
+  height:35%;
+}
+.can2{
+  width:33%;
+  height:33%;
+  margin-top:2%;
+}
+.can3{
+  width:30%;
+  height:30%;
+  margin-top:5%;
+}
+
+.logoText{
+  font-family: 'Lobster';
+  color:#fff !important;
+}
+
+.logoTextFoot{
+  font-family: 'Lobster';
+}
+
+.pEstados {
+  margin-bottom: 15px;
+  font-size: 21px;
+  font-weight: 200;
+}
