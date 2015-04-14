@@ -1,0 +1,34 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+.can1{
+  width:35%;
+  height:35%;
+}
+.can2{
+  width:33%;
+  height:33%;
+  margin-top:2%;
+}
+.can3{
+  width:30%;
+  height:30%;
+  margin-top:5%;
+}
+
+.logoText{
+  font-family: 'Lobster';
+  color:#fff !important;
+}
+
+.logoTextFoot{
+  font-family: 'Lobster';
+}
+
+.pEstados {
+  margin-bottom: 15px;
+  font-size: 21px;
+  font-weight: 200;
+}
