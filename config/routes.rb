@@ -4,4 +4,7 @@ Rails.application.routes.draw do
 
   # states
   resources :states, only: :show
+
+  # candidates
+  resources :candidates, only: :show
 end
