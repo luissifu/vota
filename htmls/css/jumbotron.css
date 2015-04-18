@@ -43,15 +43,3 @@ body {
   margin: auto;
   width: 50%;
 }
-
-.table-pros tr:nth-child(odd){
-  background-color: #b8d1f3
-}
-.table-pros tr:nth-child(even){
-  background-color: #dae5f4
-}
-
-
-.table-cons{
-
-}
