@@ -1,0 +1,27 @@
+.bordered-div-cyan{
+  border-radius: 10px;
+  border-style: inset;
+  border-width: 2px;
+  border-color: #0FF;
+  padding-top: 1%;
+  padding-bottom: 1%;
+}
+
+.vertical-align {
+    display: flex;
+    align-items: center;
+}
+
+.table-pros tr:nth-child(odd){
+  background-color: #b8d1f3;
+}
+.table-pros tr:nth-child(even){
+  background-color: #dae5f4;
+}
+
+.table-cons tr:nth-child(odd){
+  background-color: #F7CDCD;
+}
+.table-cons tr:nth-child(even){
+  background-color: #F7E1E1;
+}
